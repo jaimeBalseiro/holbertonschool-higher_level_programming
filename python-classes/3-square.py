@@ -2,9 +2,6 @@
 """Create a class named Square"""
 
 
-from stringprep import in_table_c12
-
-
 class Square:
     """
     Created the class named Square that defines a square
