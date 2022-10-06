@@ -3,7 +3,7 @@
 
 
 def add_integer(a, b=98):
-    """Adds two given integers or floats
+    """Adds two given integers or float
     
     Args:
     a: An integer or float
