@@ -2,7 +2,7 @@ Import function:
     >>> text_indentation = __import__('5-text_indentation').text_indentation
 
 Test1: Passing a string
-    >>> text_indentation("School: Holberton  Name? Ray.Colon")
+    >>> text_indentation("School: Holberton  Name? Jaime.Diaz")
     School:
     <BLANKLINE>
     Holberton  Name?
