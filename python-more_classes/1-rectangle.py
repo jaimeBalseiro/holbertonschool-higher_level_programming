@@ -4,7 +4,7 @@
 
 class Rectangle:
     """Created a class named Rectangle
-    
+
     Args:
     width (int): Integers representing the width of a rectangle
     height (int): Integer representing the height of a rectangle
