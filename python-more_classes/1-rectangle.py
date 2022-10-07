@@ -6,8 +6,8 @@ class Rectangle:
     """Created a class named Rectangle
     
     Args:
-    width (int): Integers representing a rectangle
-    height (int): Integer representing a rectangle
+    width (int): Integers representing the width of a rectangle
+    height (int): Integer representing the height of a rectangle
     """
     def __init__(self, width=0, height=0):
         self.__width = width
