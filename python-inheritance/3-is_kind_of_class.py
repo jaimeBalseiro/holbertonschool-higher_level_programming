@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Before the class
+Before the class kind
 """
 
 
