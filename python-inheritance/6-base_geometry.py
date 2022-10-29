@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Before creating an empty class
+Before creating an empty class.
 """
 
 
